@@ -101,6 +101,9 @@ object hurlingham{
 
 
 object moto{
+
+
+    
     method rapido() = true
     method puedeFuncionar() = not moto.rapido()
     method desgaste() { }
